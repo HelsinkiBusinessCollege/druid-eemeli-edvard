@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the ensiviikon ruokalista feature.
+ */
+
+include_once 'ensiviikon_ruokalista.features.inc';
